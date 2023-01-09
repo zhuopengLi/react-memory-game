@@ -2,4 +2,4 @@
 
 Built with Astro & React
 
-Visit on [netlify](zli-react-events.netlify.app)
+Visit on [netlify](https://zli-react-events.netlify.app)
